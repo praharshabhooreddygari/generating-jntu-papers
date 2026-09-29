@@ -18,7 +18,7 @@ generating jntu papers by predicting from the last pages
 
 
 
-Section A Rules (2-mark questions)
+  Section A Rules (2-mark questions)
 
 
 • Each unit must contribute exactly 1 question
@@ -27,7 +27,7 @@ Section A Rules (2-mark questions)
 
 • Topics appearing in 3+ past papers = high priority
 
-Section B Rules (10-mark questions)
+   Section B Rules (10-mark questions)
 
 • Each unit must contribute exactly 1 question
 
@@ -39,7 +39,7 @@ Section B Rules (10-mark questions)
 
 • If a topic appeared in Section A last exam, it's less likely to repeat there next time
 
-General Rules
+  General Rules
 
 
 • If a topic was asked last semester, lower its prediction score
