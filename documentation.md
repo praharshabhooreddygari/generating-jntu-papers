@@ -73,4 +73,13 @@ Do you have the syllabus data for the regulations you're targeting, or is that s
 
 
 
+Deleted Topics
+
+• Problem: Easy to miss deleted topics per regulation
+
+• Solution: Maintain an explicit deleted_topics list per regulation in the syllabus JSON — act as a hard filter before any scoring
+
+
+
+
 
