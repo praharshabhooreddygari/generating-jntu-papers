@@ -73,7 +73,7 @@ Do you have the syllabus data for the regulations you're targeting, or is that s
 
 
 
-Deleted Topics
+-->Deleted Topics
 
 • Problem: Easy to miss deleted topics per regulation
 
