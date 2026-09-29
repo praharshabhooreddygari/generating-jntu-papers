@@ -50,4 +50,27 @@ generating jntu papers by predicting from the last pages
 
 
 
+-->Regulation-based Rules
+
+• Each course has a regulation (e.g., R18, R20, R22) with its own syllabus
+
+• Topics deleted in a regulation must be strictly excluded from predictions for that regulation
+
+• Never predict a deleted topic even if it has high historical frequency
+
+• When loading past papers, map them to their regulation — don't mix topics across regulations
+
+So the rule priority becomes:
+
+1. Is the topic in the current regulation's syllabus? → If NO, discard it completely
+
+2. Then apply frequency/recency scoring
+
+This means your system needs a syllabus input per regulation as a base filter before any prediction logic runs.
+
+Do you have the syllabus data for the regulations you're targeting, or is that something your team still needs to gather
+
+
+
+
 
